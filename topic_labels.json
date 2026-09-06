@@ -1,0 +1,106 @@
+{
+  "0": {
+    "keywords": [
+      "far",
+      "india",
+      "tax",
+      "group",
+      "platform",
+      "social",
+      "state",
+      "ai"
+    ],
+    "label": "far, india, tax"
+  },
+  "1": {
+    "keywords": [
+      "government",
+      "doctors",
+      "pay",
+      "strike",
+      "long",
+      "039",
+      "united",
+      "power"
+    ],
+    "label": "government, doctors, pay"
+  },
+  "2": {
+    "keywords": [
+      "news",
+      "google",
+      "life",
+      "ai",
+      "photos",
+      "arsenal",
+      "chelsea",
+      "gemini"
+    ],
+    "label": "news, google, life"
+  },
+  "3": {
+    "keywords": [
+      "world",
+      "election",
+      "gaming",
+      "infantino",
+      "fifa",
+      "tech",
+      "xbox",
+      "cloud"
+    ],
+    "label": "world, election, gaming"
+  },
+  "4": {
+    "keywords": [
+      "ai",
+      "witkoff",
+      "talks",
+      "president",
+      "app",
+      "uber",
+      "jobs",
+      "ride"
+    ],
+    "label": "ai, witkoff, talks"
+  },
+  "5": {
+    "keywords": [
+      "people",
+      "job",
+      "despite",
+      "accept",
+      "trump",
+      "administration",
+      "trump administration",
+      "weather"
+    ],
+    "label": "people, job, despite"
+  },
+  "6": {
+    "keywords": [
+      "openai",
+      "price",
+      "prices",
+      "vaccine",
+      "ai",
+      "uk",
+      "private",
+      "body"
+    ],
+    "label": "openai, price, prices"
+  },
+  "7": {
+    "keywords": [
+      "oil",
+      "deal",
+      "ai",
+      "prices",
+      "people",
+      "health",
+      "iran",
+      "inside"
+    ],
+    "label": "oil, deal, ai"
+  }
+}

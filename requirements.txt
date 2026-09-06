@@ -1,0 +1,8 @@
+flask>=3.0
+gunicorn>=22.0
+scikit-learn>=1.5
+numpy>=1.26
+streamlit>=1.35
+pandas>=2.0
+feedparser>=6.0
+datasets>=2.19
