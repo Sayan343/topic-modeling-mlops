@@ -4,7 +4,7 @@ An LDA-based topic classification model, trained on live current-events data,
 served via Flask and Streamlit, on its way to a full containerized AWS
 deployment with CI/CD.
 
-**Live demo:** _(Streamlit Cloud link — coming soon)_
+**Live demo:** https://topic-modeling-lgmtnpguxzkxe8yojidwls.streamlit.app/
 **Status:** Core model + local serving complete. Docker and AWS deployment in progress.
 
 ---
